@@ -23,7 +23,7 @@ public class BubbleSort {
 		List<Integer> targets = new ArrayList<Integer>();
 		
 		// Prepare to input data.
-		String inputFileName = "C:/cygwin/home/Junya/GitRepo/sort/bubbleSort/src/input.data";
+		String inputFileName = "C:/cygwin/home/Junya/GitRepo/sort/input.data";
 		File inFile = new File(inputFileName);
 
 		// Read and store in array.
