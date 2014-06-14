@@ -1,4 +1,4 @@
-package bubbleSort;
+package display;
 
 import java.util.List;
 
